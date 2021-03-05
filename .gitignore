@@ -1,1 +1,15 @@
 .DS_Store
+*.pyc
+*.w2p
+web2py/applications/admin/private/
+web2py/applications/admin/sessions/
+web2py/applications/places/databases/
+web2py/applications/places/errors/
+web2py/applications/places/models/1_db.py.bak
+web2py/applications/places/progress.log
+web2py/applications/welcome/databases/
+web2py/httpserver.log
+web2py/httpserver.pid
+web2py/parameters_*.py
+web2py/welcome.w2p
+web2py/applications/welcome/databases/
